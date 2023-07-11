@@ -9,7 +9,7 @@ adsel,Administrative court selection,Judiciary,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 adterm,Administrative court term length,Judiciary,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 adtermn,Administrative court term limits,Judiciary,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 amend,Constitution amendment,Amendment,0,1,222,0.03704939919893191,3.7,29,0.041726618705035974,4.17,8,0.044444444444444446,4.44,1506,0.03283692737064736,3.28,144,0.02528977871443625,2.53,94,0.023095823095823097,2.31
-amparo,Amparo,"Rights and Duties,Judiciary",0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
+amparo,Amparo,"Judiciary,Rights and Duties",0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 anthem,Anthem,Principles and Symbols,0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 appeal,Appeal,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 arms,Bear arms,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
@@ -40,7 +40,7 @@ childpro,Children,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,
 childwrk,Child employment,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1,2.1804068639208077e-05,0.0,1,0.00017562346329469617,0.02,0,0.0,0.0
 citdep,Citizen deportation,Culture and Identity,0,0,1,0.00016688918558077436,0.02,0,0.0,0.0,0,0.0,0.0,3,6.541220591762422e-05,0.01,0,0.0,0.0,0,0.0,0.0
 citizen,Birthright citizenship,Culture and Identity,0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1,2.1804068639208077e-05,0.0,0,0.0,0.0,0,0.0,0.0
-citren,Citizenship renunciation,"Rights and Duties,Culture and Identity",0,0,1,0.00016688918558077436,0.02,2,0.0028776978417266188,0.29,0,0.0,0.0,9,0.0001962366177528727,0.02,0,0.0,0.0,0,0.0,0.0
+citren,Citizenship renunciation,"Culture and Identity,Rights and Duties",0,0,1,0.00016688918558077436,0.02,2,0.0028776978417266188,0.29,0,0.0,0.0,9,0.0001962366177528727,0.02,0,0.0,0.0,0,0.0,0.0
 citrev,Citizenship revocation,Culture and Identity,0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,6,0.00013082441183524845,0.01,0,0.0,0.0,1,0.0002457002457002457,0.02
 civil,Civil service recruitment,Principles and Symbols,0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 civilmil,Defense minister eligibility,Executive,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1,2.1804068639208077e-05,0.0,0,0.0,0.0,0,0.0,0.0
@@ -89,17 +89,17 @@ env,Environment,Rights and Duties,1,0,378,0.0630841121495327,6.31,36,0.051798561
 equal,Equality before the law,Rights and Duties,1,0,551,0.09195594125500668,9.2,61,0.08776978417266187,8.78,11,0.06111111111111111,6.11,3946,0.08603885485031507,8.6,462,0.08113804004214963,8.11,364,0.08943488943488943,8.94
 equalgr1,Equality regardless of gender,Rights and Duties,1,0,429,0.0715954606141522,7.16,72,0.10359712230215827,10.36,16,0.08888888888888889,8.89,3736,0.08146000043608137,8.15,521,0.09149982437653671,9.15,339,0.0832923832923833,8.33
 equalgr10,Equality regardless of skin color,Rights and Duties,1,0,96,0.01602136181575434,1.6,19,0.027338129496402876,2.73,4,0.022222222222222223,2.22,1161,0.025314523690120577,2.53,163,0.028626624517035477,2.86,121,0.02972972972972973,2.97
-equalgr11,Equality regardless of creed or belief,"Rights and Duties,Culture and Identity",0,0,156,0.0260347129506008,2.6,13,0.01870503597122302,1.87,2,0.011111111111111112,1.11,927,0.020212371628545885,2.02,91,0.01598173515981735,1.6,88,0.021621621621621623,2.16
+equalgr11,Equality regardless of creed or belief,"Culture and Identity,Rights and Duties",0,0,156,0.0260347129506008,2.6,13,0.01870503597122302,1.87,2,0.011111111111111112,1.11,927,0.020212371628545885,2.02,91,0.01598173515981735,1.6,88,0.021621621621621623,2.16
 equalgr12,Equality regardless of social status,Rights and Duties,1,0,23,0.0038384512683578105,0.38,2,0.0028776978417266188,0.29,0,0.0,0.0,198,0.004317205590563199,0.43,25,0.0043905865823674044,0.44,14,0.0034398034398034397,0.34
 equalgr13,Equality regardless of financial status,Rights and Duties,1,0,1,0.00016688918558077436,0.02,0,0.0,0.0,0,0.0,0.0,2,4.360813727841615e-05,0.0,0,0.0,0.0,0,0.0,0.0
-equalgr14,Equality regardless of tribe or clan,"Rights and Duties,Culture and Identity",0,0,9,0.0015020026702269693,0.15,0,0.0,0.0,0,0.0,0.0,56,0.0012210278437956522,0.12,4,0.0007024938531787847,0.07,1,0.0002457002457002457,0.02
-equalgr15,Equality regardless of political party,"Rights and Duties,Elections",0,1,20,0.0033377837116154874,0.33,3,0.004316546762589928,0.43,0,0.0,0.0,146,0.0031833940213243793,0.32,10,0.0017562346329469617,0.18,11,0.002702702702702703,0.27
+equalgr14,Equality regardless of tribe or clan,"Culture and Identity,Rights and Duties",0,0,9,0.0015020026702269693,0.15,0,0.0,0.0,0,0.0,0.0,56,0.0012210278437956522,0.12,4,0.0007024938531787847,0.07,1,0.0002457002457002457,0.02
+equalgr15,Equality regardless of political party,"Elections,Rights and Duties",0,1,20,0.0033377837116154874,0.33,3,0.004316546762589928,0.43,0,0.0,0.0,146,0.0031833940213243793,0.32,10,0.0017562346329469617,0.18,11,0.002702702702702703,0.27
 equalgr16,Equality regardless of parentage,Rights and Duties,1,0,73,0.012182910547396529,1.22,3,0.004316546762589928,0.43,1,0.005555555555555556,0.56,595,0.012973420840328806,1.3,61,0.010713031260976466,1.07,54,0.013267813267813268,1.33
-equalgr2,Equality regardless of nationality,"Rights and Duties,Culture and Identity",0,0,18,0.0030040053404539386,0.3,3,0.004316546762589928,0.43,1,0.005555555555555556,0.56,262,0.005712665983472516,0.57,18,0.003161222339304531,0.32,17,0.004176904176904177,0.42
-equalgr3,Equality regardless of origin,"Rights and Duties,Culture and Identity",0,0,15,0.0025033377837116156,0.25,2,0.0028776978417266188,0.29,0,0.0,0.0,170,0.003706691668665373,0.37,9,0.0015806111696522655,0.16,12,0.0029484029484029483,0.29
-equalgr4,Equality regardless of race,"Rights and Duties,Culture and Identity",0,0,271,0.045226969292389854,4.52,41,0.058992805755395686,5.9,8,0.044444444444444446,4.44,2867,0.06251226478860955,6.25,341,0.05988760098349139,5.99,266,0.06535626535626536,6.54
-equalgr5,Equality regardless of language,"Rights and Duties,Culture and Identity",0,0,4,0.0006675567423230974,0.07,0,0.0,0.0,0,0.0,0.0,34,0.0007413383337330746,0.07,1,0.00017562346329469617,0.02,1,0.0002457002457002457,0.02
-equalgr6,Equality regardless of religion,"Rights and Duties,Culture and Identity",0,0,437,0.0729305740987984,7.29,53,0.07625899280575539,7.63,9,0.05,5.0,2815,0.061378453219370736,6.14,329,0.05778011942395504,5.78,269,0.0660933660933661,6.61
+equalgr2,Equality regardless of nationality,"Culture and Identity,Rights and Duties",0,0,18,0.0030040053404539386,0.3,3,0.004316546762589928,0.43,1,0.005555555555555556,0.56,262,0.005712665983472516,0.57,18,0.003161222339304531,0.32,17,0.004176904176904177,0.42
+equalgr3,Equality regardless of origin,"Culture and Identity,Rights and Duties",0,0,15,0.0025033377837116156,0.25,2,0.0028776978417266188,0.29,0,0.0,0.0,170,0.003706691668665373,0.37,9,0.0015806111696522655,0.16,12,0.0029484029484029483,0.29
+equalgr4,Equality regardless of race,"Culture and Identity,Rights and Duties",0,0,271,0.045226969292389854,4.52,41,0.058992805755395686,5.9,8,0.044444444444444446,4.44,2867,0.06251226478860955,6.25,341,0.05988760098349139,5.99,266,0.06535626535626536,6.54
+equalgr5,Equality regardless of language,"Culture and Identity,Rights and Duties",0,0,4,0.0006675567423230974,0.07,0,0.0,0.0,0,0.0,0.0,34,0.0007413383337330746,0.07,1,0.00017562346329469617,0.02,1,0.0002457002457002457,0.02
+equalgr6,Equality regardless of religion,"Culture and Identity,Rights and Duties",0,0,437,0.0729305740987984,7.29,53,0.07625899280575539,7.63,9,0.05,5.0,2815,0.061378453219370736,6.14,329,0.05778011942395504,5.78,269,0.0660933660933661,6.61
 equalgr7,Equality regardless of sexual orientation,Rights and Duties,1,0,416,0.06942590120160214,6.94,59,0.08489208633093526,8.49,15,0.08333333333333333,8.33,3125,0.06813771449752523,6.81,396,0.06954689146469968,6.95,282,0.06928746928746929,6.93
 equalgr8,Equality regardless of age,Rights and Duties,1,0,9,0.0015020026702269693,0.15,0,0.0,0.0,0,0.0,0.0,91,0.001984170246167935,0.2,10,0.0017562346329469617,0.18,11,0.002702702702702703,0.27
 equalgr9,Equality for persons with disabilities,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,4,8.72162745568323e-05,0.01,1,0.00017562346329469617,0.02,0,0.0,0.0
@@ -128,7 +128,7 @@ fndfam,Found a family,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,
 freecomp,Competitive marketplace,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 freeelec,Citizen secret ballot,Elections,0,1,1,0.00016688918558077436,0.02,0,0.0,0.0,0,0.0,0.0,16,0.0003488650982273292,0.03,1,0.00017562346329469617,0.02,1,0.0002457002457002457,0.02
 freemove,Freedom of movement,Rights and Duties,1,0,5,0.0008344459279038719,0.08,2,0.0028776978417266188,0.29,0,0.0,0.0,139,0.0030307655408499225,0.3,16,0.0028099754127151387,0.28,10,0.002457002457002457,0.25
-freerel,Freedom of religion,"Rights and Duties,Culture and Identity",0,0,28,0.004672897196261682,0.47,6,0.008633093525179856,0.86,2,0.011111111111111112,1.11,595,0.012973420840328806,1.3,57,0.010010537407797681,1.0,40,0.009828009828009828,0.98
+freerel,Freedom of religion,"Culture and Identity,Rights and Duties",0,0,28,0.004672897196261682,0.47,6,0.008633093525179856,0.86,2,0.011111111111111112,1.11,595,0.012973420840328806,1.3,57,0.010010537407797681,1.0,40,0.009828009828009828,0.98
 god,God or other deities,Culture and Identity,0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 govmed,State media,Regulation and Oversight,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 habcorp,Unjustified restraint,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,2,4.360813727841615e-05,0.0,0,0.0,0.0,0,0.0,0.0
@@ -169,13 +169,13 @@ illadmin,Ultra-vires administrative actions,Judiciary,0,1,0,0.0,0.0,0,0.0,0.0,0,
 immunity,Legislator immunity,Legislature,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1,2.1804068639208077e-05,0.0,0,0.0,0.0,0,0.0,0.0
 inalrght,Inalienable,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,2,4.360813727841615e-05,0.0,0,0.0,0.0,0,0.0,0.0
 income,Legislator compensation,Legislature,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
-indcit,Indigenous citizenship,"Rights and Duties,Culture and Identity",0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,11,0.00023984475503128884,0.02,2,0.00035124692658939234,0.04,1,0.0002457002457002457,0.02
-indpolgr1,Indigenous vote,"Rights and Duties,Culture and Identity,Elections",0,0,1,0.00016688918558077436,0.02,0,0.0,0.0,0,0.0,0.0,4,8.72162745568323e-05,0.01,2,0.00035124692658939234,0.04,0,0.0,0.0
-indpolgr2,Indigenous representation,"Rights and Duties,Culture and Identity",0,0,1,0.00016688918558077436,0.02,1,0.0014388489208633094,0.14,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
-indpolgr3,Indigenous political parties,"Rights and Duties,Culture and Identity,Elections",0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
-indpolgr4,Indigenous not pay taxes,"Rights and Duties,Culture and Identity",0,0,1,0.00016688918558077436,0.02,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
-indpolgr5,Indigenous illegal activities,"Rights and Duties,Culture and Identity",0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
-indpolgr6,Indigenous self governance,"Rights and Duties,Culture and Identity",0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,3,6.541220591762422e-05,0.01,0,0.0,0.0,0,0.0,0.0
+indcit,Indigenous citizenship,"Culture and Identity,Rights and Duties",0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,11,0.00023984475503128884,0.02,2,0.00035124692658939234,0.04,1,0.0002457002457002457,0.02
+indpolgr1,Indigenous vote,"Culture and Identity,Rights and Duties,Elections",0,0,1,0.00016688918558077436,0.02,0,0.0,0.0,0,0.0,0.0,4,8.72162745568323e-05,0.01,2,0.00035124692658939234,0.04,0,0.0,0.0
+indpolgr2,Indigenous representation,"Culture and Identity,Rights and Duties",0,0,1,0.00016688918558077436,0.02,1,0.0014388489208633094,0.14,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
+indpolgr3,Indigenous political parties,"Culture and Identity,Rights and Duties,Elections",0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
+indpolgr4,Indigenous not pay taxes,"Culture and Identity,Rights and Duties",0,0,1,0.00016688918558077436,0.02,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
+indpolgr5,Indigenous illegal activities,"Culture and Identity,Rights and Duties",0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
+indpolgr6,Indigenous self governance,"Culture and Identity,Rights and Duties",0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,3,6.541220591762422e-05,0.01,0,0.0,0.0,0,0.0,0.0
 infoacc,Information,Rights and Duties,1,0,2,0.0003337783711615487,0.03,1,0.0014388489208633094,0.14,0,0.0,0.0,29,0.0006323179905370342,0.06,5,0.0008781173164734809,0.09,0,0.0,0.0
 initiat,Legislative initiatives,Elections,0,1,4,0.0006675567423230974,0.07,1,0.0014388489208633094,0.14,0,0.0,0.0,9,0.0001962366177528727,0.02,0,0.0,0.0,0,0.0,0.0
 interp,Constitutional interpretation,Judiciary,0,1,15,0.0025033377837116156,0.25,0,0.0,0.0,0,0.0,0.0,146,0.0031833940213243793,0.32,15,0.0026343519494204425,0.26,15,0.0036855036855036856,0.37
@@ -189,12 +189,12 @@ jointrde,Trade union,Rights and Duties,1,0,3,0.0005006675567423231,0.05,1,0.0014
 jrem,Supreme/ordinary court removal,Judiciary,0,1,2,0.0003337783711615487,0.03,0,0.0,0.0,0,0.0,0.0,9,0.0001962366177528727,0.02,0,0.0,0.0,0,0.0,0.0
 judcrts1,Administrative courts,Judiciary,0,1,2,0.0003337783711615487,0.03,0,0.0,0.0,0,0.0,0.0,13,0.000283452892309705,0.03,3,0.0005268703898840885,0.05,0,0.0,0.0
 judcrts2,Constitutional court,Judiciary,0,1,43,0.007176234979973298,0.72,2,0.0028776978417266188,0.29,1,0.005555555555555556,0.56,858,0.01870789089244053,1.87,96,0.01685985247629083,1.69,57,0.014004914004914005,1.4
-judcrts3,Amparo courts,"Rights and Duties,Judiciary",0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
-judcrts4,Military courts,"Judiciary,Executive",0,1,18,0.0030040053404539386,0.3,0,0.0,0.0,0,0.0,0.0,59,0.0012864400497132765,0.13,9,0.0015806111696522655,0.16,5,0.0012285012285012285,0.12
+judcrts3,Amparo courts,"Judiciary,Rights and Duties",0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
+judcrts4,Military courts,"Executive,Judiciary",0,1,18,0.0030040053404539386,0.3,0,0.0,0.0,0,0.0,0.0,59,0.0012864400497132765,0.13,9,0.0015806111696522655,0.16,5,0.0012285012285012285,0.12
 judcrts5,Courts for judging public officials,Judiciary,0,1,3,0.0005006675567423231,0.05,0,0.0,0.0,0,0.0,0.0,42,0.0009157708828467392,0.09,1,0.00017562346329469617,0.02,0,0.0,0.0
 judcrts6,Tax courts,Judiciary,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 judcrts7,Labor courts,Judiciary,0,1,2,0.0003337783711615487,0.03,0,0.0,0.0,0,0.0,0.0,7,0.00015262848047445653,0.02,1,0.00017562346329469617,0.02,0,0.0,0.0
-judcrts8,Religious courts,"Culture and Identity,Judiciary",0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
+judcrts8,Religious courts,"Judiciary,Culture and Identity",0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 judind,Judicial independence,Judiciary,0,1,15,0.0025033377837116156,0.25,2,0.0028776978417266188,0.29,1,0.005555555555555556,0.56,205,0.004469834071037656,0.45,27,0.004741833508956797,0.47,13,0.0031941031941031942,0.32
 judprec,Judicial precedent,Judiciary,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1,2.1804068639208077e-05,0.0,0,0.0,0.0,0,0.0,0.0
 judretir,Judicial retirement age,Judiciary,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,6,0.00013082441183524845,0.01,0,0.0,0.0,2,0.0004914004914004914,0.05
@@ -227,7 +227,7 @@ matequal,Matrimonial equality,Rights and Duties,1,0,3,0.0005006675567423231,0.05
 medcom,Media commission,Regulation and Oversight,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 milcom,Military commander selection,Executive,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 milrest,Military restrictions,Executive,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1,0.0002457002457002457,0.02
-milserv,Military service,"Rights and Duties,Executive",0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1,2.1804068639208077e-05,0.0,0,0.0,0.0,0,0.0,0.0
+milserv,Military service,"Executive,Rights and Duties",0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1,2.1804068639208077e-05,0.0,0,0.0,0.0,0,0.0,0.0
 miranda,Self-incrimination,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 motive,Motives for writing constitution,Principles and Symbols,0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 motto,Motto,Principles and Symbols,0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
@@ -266,7 +266,7 @@ privacy,Privacy,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,
 profleg,Legislator outside professions,Legislature,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 proprght,Own property,Rights and Duties,1,0,2,0.0003337783711615487,0.03,0,0.0,0.0,0,0.0,0.0,61,0.0013300481869916927,0.13,2,0.00035124692658939234,0.04,1,0.0002457002457002457,0.02
 provwork,Employment,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1,2.1804068639208077e-05,0.0,0,0.0,0.0,0,0.0,0.0
-prtyduty,Required political parties,"Rights and Duties,Elections",0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,2,4.360813727841615e-05,0.0,0,0.0,0.0,0,0.0,0.0
+prtyduty,Required political parties,"Elections,Rights and Duties",0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,2,4.360813727841615e-05,0.0,0,0.0,0.0,0,0.0,0.0
 pubmeet,Public legislative sessions,Legislature,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1,2.1804068639208077e-05,0.0,0,0.0,0.0,0,0.0,0.0
 pubmin,Legislative deliberations,Legislature,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 pubtri,Public trial,Rights and Duties,1,0,1,0.00016688918558077436,0.02,0,0.0,0.0,0,0.0,0.0,11,0.00023984475503128884,0.02,0,0.0,0.0,0,0.0,0.0
@@ -312,7 +312,7 @@ tranprov,Transition,Special Sections,0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 transfer,Transfer property,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 treat,Treaty ratification,International Law,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1,2.1804068639208077e-05,0.0,0,0.0,0.0,0,0.0,0.0
 treatcon,Treaty legal status,International Law,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
-trilang,Trial in native language of accused,"Rights and Duties,Culture and Identity",0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
+trilang,Trial in native language of accused,"Culture and Identity,Rights and Duties",0,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 truthcom,Truth and reconciliation commission,Regulation and Oversight,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 tv,Television,Regulation and Oversight,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 uhage,Second chamber age,Legislature,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
@@ -329,7 +329,7 @@ uncon,Constitutionality of legislation,Judiciary,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0
 vicright,Victims,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,2,4.360813727841615e-05,0.0,0,0.0,0.0,0,0.0,0.0
 votemin,Voting age,Elections,0,1,2,0.0003337783711615487,0.03,1,0.0014388489208633094,0.14,0,0.0,0.0,29,0.0006323179905370342,0.06,6,0.001053740779768177,0.11,2,0.0004914004914004914,0.05
 voteres,Voting restrictions,Elections,0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1,2.1804068639208077e-05,0.0,0,0.0,0.0,0,0.0,0.0
-voteun,Universal suffrage,"Rights and Duties,Elections",0,1,12,0.0020026702269692926,0.2,2,0.0028776978417266188,0.29,0,0.0,0.0,153,0.0033360225017988357,0.33,23,0.004039339655778012,0.4,22,0.005405405405405406,0.54
-war,War,"International Law,Executive",0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
+voteun,Universal suffrage,"Elections,Rights and Duties",0,1,12,0.0020026702269692926,0.2,2,0.0028776978417266188,0.29,0,0.0,0.0,153,0.0033360225017988357,0.33,23,0.004039339655778012,0.4,22,0.005405405405405406,0.54
+war,War,"Executive,International Law",0,1,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
 wolaw,No punishment without law,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,17,0.0003706691668665373,0.04,7,0.0012293642430628731,0.12,1,0.0002457002457002457,0.02
 work,Work requirement,Rights and Duties,1,0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0
