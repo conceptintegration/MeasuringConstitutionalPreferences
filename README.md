@@ -1,4 +1,4 @@
-# WhatKindOfConstitution
+#  MeasuringConstitutionalPreferences
 
 Replication materials for the paper "Measuring constitutional preferences:
 A new method for analyzing public consultation data."
